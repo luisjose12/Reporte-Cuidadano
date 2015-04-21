@@ -1,0 +1,2 @@
+# Reporte-Cuidadano
+El desarrollo de éste proyecto contempla una aplicación móvil para facilitar el que el ciudadano pueda registrar incidencias diversas en su localidad, tales como fugas de agua, baches, chatarra abandonada, lámparas fundidas, personas con enfermedades contagiosas,etc. Y que el reporte marque la localización de la incidencia en coordenadas obtenidas por GPS. Debe tener un programa web complementario para la gestión de los servicios y su visualización gráfica que muestre un panorama del escenario ciudadano.
